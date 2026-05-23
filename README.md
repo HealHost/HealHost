@@ -1,4 +1,5 @@
-## Hi there 👋
+##Hi there 👋
+!frieten<img width="463" height="408" alt="fern-borgar" src="https://github.com/user-attachments/assets/0af89505-2b92-493d-afe0-2259f3c79972" />
 
 <!--
 **HealHost/HealHost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
