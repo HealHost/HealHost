@@ -13,7 +13,7 @@
 - 🐤 primer año de universidad
 - 🐍 Aprendiendo Python
 - 🙀 Aprendiendo Redes de computadora
-- 🙏 futuro Ingeniero
+- 🙏 Futuro Ingeniero
 - ⚡ i am a Electrico
 
 <br>
